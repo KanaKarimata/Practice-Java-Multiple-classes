@@ -1,4 +1,5 @@
 package com.practice;
+import com.logic.CalcLogic;
 
 public class MultipleClasses {
     public static void main(String[] args) {

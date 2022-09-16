@@ -1,4 +1,4 @@
-package com.practice;
+package com.logic;
 
 public class CalcLogic {
     public static int add( int a, int b) {
